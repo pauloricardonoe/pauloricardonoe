@@ -1,8 +1,8 @@
 # Olá, eu sou Paulo Ricardo Noé 👋
 
 ## Sobre mim
-- 👨‍💻 Software Engineer at Invillia | IFood
-- 🎓 Professor at Unifagoc
+- 👨‍💻 Engenheiro de Software na Invillia | IFood
+- 🎓 Professor no Unifagoc
 - 🌍 Apaixonado por tecnologia, programação e mercado financeiro
 
 ## Habilidades
