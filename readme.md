@@ -15,7 +15,7 @@
 
 ## Contato
 - 📧 Email: pauloricardonoe@email.com
-- 💼 LinkedIn: [linkedin.com/in/pauloricardonoe](https://www.linkedin.com/in/pauloricardonoe)
+- 💼 LinkedIn: [linkedin.com/in/paulo-ricardo-noe/](https://www.linkedin.com/in/paulo-ricardo-noe/)
 - 🐦 Twitter: [@pauloricardonoe](https://twitter.com/pauloricardonoe)
 
 ## Estatísticas no GitHub
